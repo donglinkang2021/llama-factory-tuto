@@ -1,0 +1,3 @@
+[submodule "llama-factory"]
+    path = LLaMA-Factory
+    url = https://github.com/donglinkang2021/LLaMA-Factory
